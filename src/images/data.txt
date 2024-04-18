@@ -1,0 +1,2 @@
+blue color  : #1A304A
+brown color :#776035
